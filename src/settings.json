@@ -1,0 +1,74 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock the Next Level of Living with Innovative Solutions that Elevate Your Daily Routine",
+        "title": "Life: Transforming Your Everyday Experience"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unlock the Next Level of Living with Innovative Solutions that Elevate Your Daily Routine",
+        "title": "Life: Transforming Your Everyday Experience"
+      }
+    },
+    {
+      "id": "HeroSplitWithScreenshot"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unlock the Next Level of Living with Innovative Solutions that Elevate Your Daily Routine",
+        "title": "Life: Transforming Your Everyday Experience"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock the Next Level of Living with Innovative Solutions that Elevate Your Daily Routine",
+        "title": "Life: Transforming Your Everyday Experience"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock the Next Level of Living with Innovative Solutions that Elevate Your Daily Routine",
+        "title": "Life: Transforming Your Everyday Experience"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the Next Level of Living with Innovative Solutions that Elevate Your Daily Routine",
+        "title": "Life: Transforming Your Everyday Experience"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock the Next Level of Living with Innovative Solutions that Elevate Your Daily Routine",
+        "title": "Life: Transforming Your Everyday Experience"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock the Next Level of Living with Innovative Solutions that Elevate Your Daily Routine",
+        "title": "Life: Transforming Your Everyday Experience"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the Next Level of Living with Innovative Solutions that Elevate Your Daily Routine",
+        "title": "Life: Transforming Your Everyday Experience"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Life: Transforming Your Everyday Experience",
+  "subtitle": "Unlock the Next Level of Living with Innovative Solutions that Elevate Your Daily Routine"
+}
